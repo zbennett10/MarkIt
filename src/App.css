@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+}
+
+.input {
+    min-width: 35em;
+    min-height: 40em;
+    float: left;
+    margin-left: 5em;
+    border: 2px solid black;
+}
+
+.output {
+    min-width: 35em;
+    min-height: 33.8em;
+    float: right;
+    margin-right: 5em;
+    border: 2px solid black;
+}
